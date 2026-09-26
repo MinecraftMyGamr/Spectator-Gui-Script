@@ -1,0 +1,23 @@
+# Roblox / Lua common ignores
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+.sourcemap.json
+*.luau
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Temp / logs
+*.log
+*.tmp
+temp/
+tmp/
